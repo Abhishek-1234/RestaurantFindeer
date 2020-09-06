@@ -5,9 +5,7 @@ import com.google.gson.Gson;
 import java.io.Serializable;
 import java.util.List;
 
-/**
- * Created by ABHISHEK on 22-08-2017.
- */
+
 public  class RestaurantBean implements Serializable{
     /**
      * R : {"res_id":16613127}
