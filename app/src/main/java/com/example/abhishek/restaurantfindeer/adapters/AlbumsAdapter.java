@@ -1,8 +1,5 @@
 package com.example.abhishek.restaurantfindeer.adapters;
 
-/**
- * Created by jitesh.upadhyay on 8/7/2017.
- */
 
 
 import android.content.Context;
@@ -21,9 +18,6 @@ import com.example.abhishek.restaurantfindeer.datamodel.RestaurantsBean;
 
 import java.util.List;
 
-/**
- * Created by Ravi Tamada on 18/05/16.
- */
 public class AlbumsAdapter extends RecyclerView.Adapter<AlbumsAdapter.MyViewHolder> {
 
     private Context mContext;
