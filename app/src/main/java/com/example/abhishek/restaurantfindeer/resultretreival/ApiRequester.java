@@ -21,9 +21,6 @@ import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
 
-/**
- * Created by jitesh.upadhyay on 8/7/2017.
- */
 
 public class ApiRequester {
 
