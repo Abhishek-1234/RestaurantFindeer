@@ -10,9 +10,6 @@ import java.lang.reflect.Type;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by ABHISHEK on 23-08-2017.
- */
 
 public class OnlyRestaurantModel {
 
