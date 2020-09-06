@@ -12,9 +12,6 @@ import java.lang.reflect.Type;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by ABHISHEK on 22-08-2017.
- */
 
 public class ReviewsModel implements Serializable{
 
