@@ -6,9 +6,6 @@ import android.support.v4.app.FragmentStatePagerAdapter;
 
 import com.example.abhishek.restaurantfindeer.views.RestaurantListFragment;
 
-/**
- * Created by ABHISHEK on 31-07-2017.
- */
 
 public class MyHomeScreenPagerAdapter extends FragmentStatePagerAdapter {
 
