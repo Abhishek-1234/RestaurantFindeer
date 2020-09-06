@@ -8,9 +8,6 @@ import com.example.abhishek.restaurantfindeer.datamodel.ReviewsModel;
 
 import java.util.List;
 
-/**
- * Created by ABHISHEK on 20-08-2017.
- */
 
 public class DemoEvent {
 
