@@ -1,9 +1,5 @@
 package com.example.abhishek.restaurantfindeer.datamodel;
 
-/**
- * Created by ABHISHEK on 20-08-2017.
- */
-
 public class LocationSuggestionsBean {
     /**
      * entity_type : city
