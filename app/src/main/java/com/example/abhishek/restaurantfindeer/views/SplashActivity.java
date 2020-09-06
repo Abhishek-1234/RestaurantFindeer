@@ -7,10 +7,6 @@ import android.support.v7.app.AppCompatActivity;
 
 import com.example.abhishek.restaurantfindeer.R;
 
-/**
- * Created by ABHISHEK on 02-08-2017.
- */
-
 
 public class SplashActivity extends AppCompatActivity {
 
