@@ -10,9 +10,6 @@ import retrofit2.http.GET;
 import retrofit2.http.Header;
 import retrofit2.http.Query;
 
-/**
- * Created by jitesh.upadhyay on 8/7/2017.
- */
 
 public interface ApiInterface {
 
